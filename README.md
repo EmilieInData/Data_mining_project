@@ -2,6 +2,7 @@
 Analysis of product returns from a shop with a view to improving the company's strategic decisions, using in-depth exploratory analyses and the application of our logistic regression model.
 
 Application of the model:
+
 --> Model chosen: logistic regression was decisive
 due to its simplicity, efficiency and ease of interpretation
 
